@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jeffkulas.com/posts/automated-knowledge-gain/</loc>
+    <lastmod>2019-09-01T08:44:44-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeffkulas.com/posts/agency-and-scarcity/</loc>
     <lastmod>2018-06-24T10:34:27-07:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://jeffkulas.com/</loc>
-    <lastmod>2018-06-24T10:34:27-07:00</lastmod>
+    <lastmod>2019-09-01T08:44:44-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jeffkulas.com/posts/</loc>
-    <lastmod>2018-06-24T10:34:27-07:00</lastmod>
+    <lastmod>2019-09-01T08:44:44-07:00</lastmod>
     <priority>0</priority>
   </url>
   

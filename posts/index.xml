@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Jeff Kulas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jun 2018 10:34:27 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 08:44:44 -0700</lastBuildDate>
     
 	<atom:link href="https://jeffkulas.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated Knowledge Gain</title>
+      <link>https://jeffkulas.com/posts/automated-knowledge-gain/</link>
+      <pubDate>Sun, 01 Sep 2019 08:44:44 -0700</pubDate>
+      
+      <guid>https://jeffkulas.com/posts/automated-knowledge-gain/</guid>
+      <description>Do we need artificial general intelligence in order to automate knowledge gain? I&amp;rsquo;m not sure we do. If we can automate knowledge gain at a reasonable cost we can discover new materials, new parts, new processes, new designs and new methods. We can also learn about existing systems like the biology that makes us well.. us.
+If we simulate reality inside of a computer we can try many, many combinations of ways of affecting that model in a computer and then if something looks promising we can try to produce that thing in the physical world and see how it works there versus in a simulation.</description>
+    </item>
     
     <item>
       <title>Agency &amp; Scarcity</title>
