@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jeffkulas.com/</loc>
+    <lastmod>2020-08-09T23:41:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeffkulas.com/posts/passion/</loc>
+    <lastmod>2020-08-09T23:41:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeffkulas.com/posts/</loc>
+    <lastmod>2020-08-09T23:41:11-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeffkulas.com/posts/automated-knowledge-gain/</loc>
     <lastmod>2019-09-01T08:44:44-07:00</lastmod>
   </url>
@@ -24,24 +39,10 @@
   
   <url>
     <loc>https://jeffkulas.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeffkulas.com/</loc>
-    <lastmod>2019-09-01T08:44:44-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeffkulas.com/posts/</loc>
-    <lastmod>2019-09-01T08:44:44-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jeffkulas.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

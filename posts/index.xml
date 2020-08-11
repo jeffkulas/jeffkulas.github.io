@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Jeff Kulas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 08:44:44 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 23:41:11 -0700</lastBuildDate>
     
 	<atom:link href="https://jeffkulas.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Passion</title>
+      <link>https://jeffkulas.com/posts/passion/</link>
+      <pubDate>Sun, 09 Aug 2020 23:41:11 -0700</pubDate>
+      
+      <guid>https://jeffkulas.com/posts/passion/</guid>
+      <description>I’ve got a passion. It&amp;rsquo;s called peace.
+I believe that increasing global computation capacity is a good thing. Computation can be used to simulate and model reality in order to try to predict outcomes given sets of choices available and conditions that may or may not be under our control.
+If we propose something we can model it and see what happens in a variety of configurations and conditions. Does it have the desired outcome?</description>
+    </item>
     
     <item>
       <title>Automated Knowledge Gain</title>
