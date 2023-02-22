@@ -1,53 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://jeffkulas.com/posts/industry-balance-nature-humanity/</loc>
     <lastmod>2023-01-16T16:17:17-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/</loc>
     <lastmod>2023-01-16T16:17:17-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/posts/</loc>
     <lastmod>2023-01-16T16:17:17-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/posts/passion/</loc>
     <lastmod>2020-08-09T23:41:11-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/posts/automated-knowledge-gain/</loc>
     <lastmod>2019-09-01T08:44:44-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/posts/agency-and-scarcity/</loc>
     <lastmod>2018-06-24T10:34:27-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/about/</loc>
     <lastmod>2018-06-02T22:21:24-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/posts/hello-hugo/</loc>
     <lastmod>2018-06-02T21:24:31-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jeffkulas.com/tags/</loc>
   </url>
-  
 </urlset>
