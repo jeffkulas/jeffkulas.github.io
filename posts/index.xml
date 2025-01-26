@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Jeff Kulas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Sep 2023 19:09:34 -0700</lastBuildDate><atom:link href="https://jeffkulas.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 15:52:26 -0800</lastBuildDate><atom:link href="https://jeffkulas.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Powered Business Software Appliance</title>
+      <link>https://jeffkulas.com/posts/sofware-appliance/</link>
+      <pubDate>Sat, 25 Jan 2025 15:52:26 -0800</pubDate>
+      
+      <guid>https://jeffkulas.com/posts/sofware-appliance/</guid>
+      <description>As LLMs get more useful for software creation and maintenance we could reach a point where companies only buy AI appliances that create and maintain software and data for the company. These appliances would build software that serves the business needs and make changes to the software as the business needs change over time.
+Imagine running a business that does plumbing and you need software for your operations: accounting (all companies need this), scheduling, human resources functions (heh, assuming you employ people vs buying robots).</description>
+    </item>
+    
     <item>
       <title>General LLM Usefulness</title>
       <link>https://jeffkulas.com/posts/large-language-model/</link>
